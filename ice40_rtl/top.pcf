@@ -1,0 +1,13 @@
+#==========================================================================
+# top.pcf - pin constraints recovered from ice40_bitstream.bin (UP5K SG48)
+#==========================================================================
+set_io clk      36
+set_io rst_n    34
+set_io start    27
+set_io load     28
+set_io sel      25
+set_io sdi      32
+set_io sdo      31
+set_io busy     38
+set_io busy_dup 23
+#==========================================================================
